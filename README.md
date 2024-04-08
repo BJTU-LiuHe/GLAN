@@ -1,10 +1,8 @@
 # Enviroment:
-python                3.8.0\\
-torch                 1.8.0+cu111
-
-torch-cluster         1.5.9
-
-torch-geometric       1.6.0
+python                3.8.0 
+torch                 1.8.0+cu111 
+torch-cluster         1.5.9 
+torch-geometric       1.6.0 
 
 torch-scatter         2.0.8
 
