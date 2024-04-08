@@ -9,3 +9,11 @@ torch-spline-conv     1.2.1
 
 # Dataset
 The dataset used in this work is available at https://drive.google.com/file/d/1rGzSspi_Y9fcK3nzQUQUXTAiM5KvWig5/view?usp=sharing
+
+#Citation
+@article{liu2022glan,
+  title={Glan: A graph-based linear assignment network},
+  author={Liu, He and Wang, Tao and Lang, Congyan and Feng, Songhe and Jin, Yi and Li, Yidong},
+  journal={arXiv preprint arXiv:2201.02057},
+  year={2022}
+}
