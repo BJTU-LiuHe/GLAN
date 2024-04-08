@@ -1,6 +1,5 @@
 # Enviroment:
-python                3.8.0
-
+python                3.8.0\\
 torch                 1.8.0+cu111
 
 torch-cluster         1.5.9
